@@ -17,9 +17,9 @@
 	<key>IATemplateDocumentFile</key>
 	<string>document</string>
 	<key>IATemplateFooterHeight</key>
-	<integer>90</integer>
+	<integer>50</integer>
 	<key>IATemplateHeaderHeight</key>
-	<integer>90</integer>
+	<integer>50</integer>
 	<key>IATemplateDescription</key>
 	<string>MiSans document style.</string>
 	<key>IATemplateAuthor</key>
